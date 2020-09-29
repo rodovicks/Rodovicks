@@ -17,4 +17,4 @@ Simples, calmo e cheio de sonhos, minha maior qualidade é a persistencia.
 - **React Native**
 - **Laravel**
 
-__*É isso aqui falo um pouquinho de mim, espero que gostem.*__
+__*É isso... Aqui falo um pouquinho de mim, espero que gostem.*__
