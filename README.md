@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, sou Bruno de Cássio Rodovicks Pissinato 👋
+## Bem vindo ao meu Github, espero que se sinta bem e fique a vontade.
 
-<!--
-**rodovicks/Rodovicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 23 anos e sou apaixonado por tecnologia, chego ao ponto de respirar em binario sem nem perceber.
+Eu amo minha Família e adoro pizza, mas sempre acompanhada de uma bela gameplay.
+Simples, calmo e cheio de sonhos, minha maior qualidade é a persistencia.
 
-Here are some ideas to get you started:
+- **Graduado em Sistemas de Informação**
+- **Bootcamp Fullstack da IGTI concluído**
+- **Cursando o Bootcamp GoStack da Rocketseat**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- **TypeScript**
+- **NodeJS**
+- **React**
+- **React Native**
+- **Laravel**
+
+__*É isso aqui falo um pouquinho de mim, espero que gostem.*__
