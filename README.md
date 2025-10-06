@@ -3,13 +3,6 @@
   <img src="https://github.com/rodovicks/Rodovicks/blob/f664ef17ebd89658730d768805b2c6833e7a9221/banner.jpg" alt="Banner" width="100%">
 </p>
 
-<h3 align="center">
-  <em>"Don't complain, don't explain. Just show up and do your best."</em><br>
-  — <strong>Tom Brady</strong>
-</h3>
-
----
-
 ## 👋 Olá, eu sou o Bruno Rodovicks
 
 Sou desenvolvedor **Front-End Pleno**, com foco em criar experiências digitais **intuitivas, performáticas e sustentáveis**.  
