@@ -3,7 +3,7 @@
   <img src="https://github.com/rodovicks/Rodovicks/blob/f664ef17ebd89658730d768805b2c6833e7a9221/banner.jpg" alt="Banner" width="100%">
 </p>
 
-## 👋 Olá, eu sou o Bruno Rodovicks
+## Olá, eu sou o Bruno Rodovicks
 
 Sou desenvolvedor **Front-End Pleno**, com foco em criar experiências digitais **intuitivas, performáticas e sustentáveis**.  
 Tenho paixão por construir produtos com **arquitetura limpa**, **design consistente** e **atenção a detalhes**, tanto no código quanto na experiência do usuário.
@@ -20,7 +20,7 @@ valores que aplico tanto no trabalho quanto na vida pessoal.
 
 ---
 
-## ⚙️ Stack Principal
+## Stack Principal
 
 <div align="center">
 
@@ -36,7 +36,7 @@ valores que aplico tanto no trabalho quanto na vida pessoal.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 - **ClinicUp** — Sistema web de agendamento e gestão de exames médicos  
   <sub><em>Next.js · Supabase · TailwindCSS</em></sub>
@@ -49,7 +49,7 @@ valores que aplico tanto no trabalho quanto na vida pessoal.
 
 ---
 
-## 🌐 Conecte-se Comigo
+## Conecte-se Comigo
 
 <div align="center">
 
@@ -62,5 +62,5 @@ valores que aplico tanto no trabalho quanto na vida pessoal.
 ---
 
 <p align="center">
-  <sub>✨ Disciplina vence motivação. ✨</sub>
+  <sub>Disciplina vence motivação.</sub>
 </p>
